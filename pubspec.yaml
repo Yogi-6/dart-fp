@@ -12,3 +12,5 @@ environment:
 
 dev_dependencies:
   lints: ^1.0.0
+dependencies: 
+  dartz: ^0.10.1
