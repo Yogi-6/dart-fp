@@ -1,4 +1,4 @@
-import 'numbers.dart';
+import '../numbers.dart';
 
 void main(List<String> args) {
   final _isEven = (x) => x % 2 == 0;
